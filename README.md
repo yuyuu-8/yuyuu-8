@@ -13,7 +13,7 @@
 ### :woman_technologist: About Me :
 I am a Beginner Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
 - :nerd_face: I like creating beautiful and comfortable interfaces;
-- :envelope_with_arrow: How to reach me: me https://t.me/yuyuu_8
+- :envelope_with_arrow: How to reach me: [Telegram](https://t.me/yuyuu_8);
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
