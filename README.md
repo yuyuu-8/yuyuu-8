@@ -10,10 +10,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
 
-### :woman_technologist: About Me :
-I am a Beginner Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
-- :nerd_face: I like creating beautiful and comfortable interfaces;
-- :envelope_with_arrow: How to reach me: [Telegram](https://t.me/yuyuu_8);
+### 👩‍💻 About Me :
+My name is Anastasia Stepuk, I'm a 2 year student of Faculty of Applied Maths and Computer Science at BSU, I am a passionate Frontend Developer from Belarus, focused on creating beautiful and user-friendly interfaces.
+- 🌱 Currently learning React and TypeScript and deepening my knowledge in JavaScript
+- 💡 Interested in UX/UI design and interactive web applications
+- 🤝 Open to collaboration and interesting projects
+- 📫 You can reach me via [Telegram](https://t.me/yuyuu_8)
+- 🛠️ Always eager to learn new technologies and improve my skills
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -24,7 +28,7 @@ I am a Beginner Frontend Developer <img src="https://media.giphy.com/media/WUlpl
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; -->
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp; -->  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>
 </div>
