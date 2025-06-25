@@ -15,7 +15,7 @@ My name is Anastasia Stepuk, I'm a 2 year student at Faculty of Applied Maths an
 - 🌱 Currently learning React and TypeScript and deepening my knowledge in JavaScript
 - 💡 Interested in UX/UI design and interactive web applications
 - 🤝 Open to collaboration and interesting projects
-- 📫 You can reach me via [Telegram](https://t.me/yuyuu_8)
+- 📫 You can reach me via [Telegram](https://t.me/yuyuu_8) or check my [CV](https://github.com/yuyuu-8/yuyuu-8/blob/main/Anastasia_Stepuk.pdf)
 - 🛠️ Always eager to learn new technologies and improve my skills
 
 ---
