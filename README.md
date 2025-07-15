@@ -39,3 +39,6 @@ My name is Anastasia Stepuk, I'm a 2 year student at Faculty of Applied Maths an
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yuyuu-8&theme=tokyonight)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuyuu-8)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zrni2pmz71pvjij3lkzowbvsu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
