@@ -12,10 +12,11 @@
 
 ### 👩‍💻 About Me :
 My name is Anastasia Stepuk, I'm a 3 year student at Faculty of Applied Maths and Computer Science at BSU <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, I am a passionate Frontend Developer from Belarus, focused on creating beautiful and user-friendly interfaces.
-- 🌱 Currently learning React and TypeScript and deepening my knowledge in JavaScript
+- 💼 Currently working at OxSoft as a Frontend Developer developing CRM system using NgZorro, Akita,
+- 🌱 Deepening my knowledge in TypeScript and Angular
 - 💡 Interested in UX/UI design and interactive web applications
 - 🤝 Open to collaboration and interesting projects
-- 📫 You can reach me via [Telegram](https://t.me/yuyuu_8) or check my [CV](https://github.com/yuyuu-8/yuyuu-8/blob/main/Anastasia_Stepuk.pdf)
+- 📫 You can reach me via [Telegram](https://t.me/yuyuu_8) or check my [CV](https://github.com/yuyuu-8/yuyuu-8/blob/main/Anastasia_Stepuk_CV.pdf)
 - 🛠️ Always eager to learn new technologies and improve my skills
 
 ---
@@ -25,12 +26,11 @@ My name is Anastasia Stepuk, I'm a 3 year student at Faculty of Applied Maths an
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp; -->  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 </div>
 
 ---
