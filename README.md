@@ -11,7 +11,7 @@
 </h2>
 
 ### 👩‍💻 About Me :
-My name is Anastasia Stepuk, I'm a 3 year student at Faculty of Applied Maths and Computer Science at BSU <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, I am a passionate Frontend Developer from Belarus, focused on creating beautiful and user-friendly interfaces.
+My name is Anastasia Stepuk, I'm a 4 year student at Faculty of Applied Maths and Computer Science at BSU <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, I am a passionate Frontend Developer from Belarus, focused on creating beautiful and user-friendly interfaces.
 - 💼 Currently working at OxSoft as a Frontend Developer developing CRM system using NgZorro, Akita,
 - 🌱 Deepening my knowledge in TypeScript and Angular
 - 💡 Interested in UX/UI design and interactive web applications
